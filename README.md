@@ -1,6 +1,8 @@
 # Xiaoxin Pro14-2021-ACH-Hackintosh
 本项目基于 [thinkbook14p-Gen2-ACH-hackintosh](https://github.com/Kingtous/thinkbook14p-Gen2-ACH-hackintosh) 进行二次修改，使用的 OpenCore 版本为 0.9.7
 
+请注意：在使用这个 EFI 之前记得自己重新生成一个序列号和 UUID
+
 ![](./preview.png)
 
 我自己使用的是 Ventura 13.5.2，Sonoma 兼容性请自行测试
