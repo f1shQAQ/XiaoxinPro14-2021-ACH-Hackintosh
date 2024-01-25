@@ -24,3 +24,4 @@
 | 内存 | 16GB (8GB*2 3200MHz DDR4) |
 | 硬盘 | KIOXIA RC20 1TB |
 | 网卡 | Intel AX200 |
+| 声卡 | Realtek ALC287 (layout 11, 21) |
